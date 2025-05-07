@@ -1,7 +1,7 @@
 # 💫 About Me:
-I am *Mallikarjun Reddy Ganapuram, a passionate Computer Science student currently pursuing my B.Tech second year at **ICFAI Tech, Hyderabad*.  
+I am *Badodhe Khushal Prasad, a passionate Computer Science student currently pursuing my B.Tech second year at **ICFAI Tech, Hyderabad*.  
 
-Born and brought up in *Chittigidda, Telangana*, I've always been curious about technology and driven to create meaningful digital solutions.  
+Born and brought up in *Hyserabad, Telangana*, I've always been curious about technology and driven to create meaningful digital solutions.  
 
 I'm currently focused on *web development*, aiming to build user-friendly, efficient, and innovative web applications.  
 
@@ -33,8 +33,3 @@ I’m also building my own organization, *Yellow Pulse*, with a mission to use t
 
 ## ✍ Random Dev Quote:
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-## 😂 Random Dev Meme:
-<img src="https://random-memer.herokuapp.com/" width="400px"/>
